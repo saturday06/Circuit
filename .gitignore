@@ -1,5 +1,9 @@
-/Library/
-/Temp/
+/*.csproj
 /*.sln
+/.idea/
+/.vscode/
+/Library/
 /Logs/
+/Temp/
 /UserSettings/
+/obj/
